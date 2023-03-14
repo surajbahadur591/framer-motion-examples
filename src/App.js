@@ -9,7 +9,7 @@ function App() {
       <motion.div animate={{ }} className="">
         <Header></Header>
         <Modal></Modal>
-        {/* <Card></Card> */}
+        <Card></Card>
       </motion.div>
     </>
   );
